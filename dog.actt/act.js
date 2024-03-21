@@ -2,10 +2,10 @@ import { left } from "./info1.js"
 import { right } from "./image.js"
 
 const data = {
-    title : "This is title one" ,
-    title1 :"This is title two" ,
-    para : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis voluptates ratione velit sapiente delectus minus quasi! Debitis natus, qui ad consequatur vel assumenda, voluptatum sint consectetur esse eius voluptatem a?xx" ,
-    para1 : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis voluptates ratione velit sapiente delectus minus quasi! Debitis natus, qui ad consequatur vel assumenda, voluptatum sint consectetur esse eius voluptatem a?xx" ,
+    title : "Why do wee need to take care of deogs?" ,
+    title1 :"Benifits of taking good care of dogs" ,
+    para : "Taking care of dogs is important because they provide companionship, offer health benefits such as reducing stress and increasing physical activity, teach responsibility and commitment, help with socialization, contribute to safety and security, and can serve as emotional support and therapy animals." ,
+    para1 : "The benefits of taking care of a dog include companionship, improved physical and mental health, enhanced socialization skills, a sense of responsibility, increased safety and security, and the potential for emotional support and therapy." ,
     button1 : "Contact us" ,
     button2 : "About us" ,
     button3 : "Contact us" ,

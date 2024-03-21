@@ -3,10 +3,10 @@
 }
 .container{
     border: 4px solid black;
-    max-width: 1000px;
+    width: 1000px;
     margin: 0 auto;
     display: flex;
-    padding: 5% ;
+    padding: 10% ;
     height: 500px;
     padding-top: 10%;
    
@@ -48,17 +48,15 @@ img{
 .left{
     margin-left: 5%;
     border: 3px dashed black;
-    width: 50%;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding: 5%;
+    width: 200%;
+   
     
 }
 
 .right{
-    width: 50%;
-    border:3px dashed black;
     margin-left: 5%;
-    padding: 5%;
+    border:3px dashed black;
+    width: 200%;
 }
 
 button{
